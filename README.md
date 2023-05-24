@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tarun Prasad T</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-- 🌱 I’m currently learning **Java,HTML,CSS**
+- 🌱 I’m currently learning **MERN**
 
 - 📫 How to reach me **tarunprasad789@gmail.com**
 
